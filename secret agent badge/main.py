@@ -30,7 +30,7 @@ last = name [-1:]
 code = frist + last
 print("frist three letters of name: ",frist)
 print("last letter of name:",last)
-print("secret code:", code)
+print("secret club :", code)
 
 
 
