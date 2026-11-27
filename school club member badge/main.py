@@ -14,3 +14,4 @@ last = name [-1]
 code = frist + last
 print("frist three letters of name:", frist)
 print("last letters of name:",last)
+print("club badge: ",code)
